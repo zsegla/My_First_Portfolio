@@ -1,6 +1,4 @@
-# My First Portfolio
-
-Welcome to the **My_First_Portfolio** project repository! This project is part of the **Front-End Web Development** track and is designed to help you understand the structure and fundamentals of HTML while building your first personal website.
+# Basic HTML
 
 ## 🚀 Project Overview
 
